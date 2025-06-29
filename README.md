@@ -4,7 +4,10 @@
 
 `FullScreenReminder` 是一个专为需要长时间面对电脑屏幕的你设计的 PowerShell 脚本。它会定时以全屏方式锁定你的屏幕，强制你离开座位，进行短暂的休息。它的设计目标是**无干扰、强制性、高度可定制**，帮助你养成健康的工作习惯。
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ymfKANq" data-context="false" ><a href="//imgur.com/a/ymfKANq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<details>
+  <summary>点击查看项目截图</summary>
+  <img src="https://imgur.com/a/ymfKANq" alt="项目截图" style="max-width:600px">
+</details>
 
   * **全屏强制提醒**: 到达预设时间后，脚本会创建一个覆盖所有窗口的全屏界面，确保你不会忽略休息提醒。
   * **优雅的视觉体验**:
